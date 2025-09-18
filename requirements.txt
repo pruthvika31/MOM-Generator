@@ -1,7 +1,6 @@
 google.generativeai
 streamlit
-pytesseract
 opencv-python
 Pillow
 python-docx
-pdf2image
+pypdf
